@@ -1,4 +1,4 @@
-# Live2D Widget
+# Live2D Widget Customized
 
 ![](https://forthebadge.com/images/badges/built-with-love.svg)
 ![](https://forthebadge.com/images/badges/uses-html.svg)
@@ -6,6 +6,10 @@
 ![](https://forthebadge.com/images/badges/contains-cat-gifs.svg)
 ![](https://forthebadge.com/images/badges/powered-by-electricity.svg)
 ![](https://forthebadge.com/images/badges/makes-people-smile.svg)
+
+## Customized feature
+
+Now your waifu is on the right side.
 
 ## 特性 Feature
 
